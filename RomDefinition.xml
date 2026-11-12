@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rom-definition version="1.0">
+    <rom type="cartridge" title="Hoverstrike" version="1.0" />
+    <binary path="obj/main.vbin" />
+    <textures>
+        <texture path="obj/vector_lines.vtex" />
+    </textures>
+    <sounds>
+        <sound path="obj/laser.vsnd" />
+        <sound path="obj/tank_boom.vsnd" />
+        <sound path="obj/missile.vsnd" />
+        <sound path="obj/hit.vsnd" />
+        <sound path="obj/crash.vsnd" />
+        <sound path="obj/rack_clear.vsnd" />
+        <sound path="obj/hum.vsnd" />
+        <sound path="obj/blip.vsnd" />
+    </sounds>
+</rom-definition>

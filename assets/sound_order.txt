@@ -1,0 +1,8 @@
+laser
+tank_boom
+missile
+hit
+crash
+rack_clear
+hum
+blip
